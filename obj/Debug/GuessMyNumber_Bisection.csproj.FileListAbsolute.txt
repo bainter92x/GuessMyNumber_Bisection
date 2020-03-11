@@ -1,0 +1,6 @@
+C:\Users\baint\source\repos\GuessMyNumber_Bisection\bin\Debug\GuessMyNumber_Bisection.exe.config
+C:\Users\baint\source\repos\GuessMyNumber_Bisection\bin\Debug\GuessMyNumber_Bisection.exe
+C:\Users\baint\source\repos\GuessMyNumber_Bisection\bin\Debug\GuessMyNumber_Bisection.pdb
+C:\Users\baint\source\repos\GuessMyNumber_Bisection\obj\Debug\GuessMyNumber_Bisection.csprojAssemblyReference.cache
+C:\Users\baint\source\repos\GuessMyNumber_Bisection\obj\Debug\GuessMyNumber_Bisection.exe
+C:\Users\baint\source\repos\GuessMyNumber_Bisection\obj\Debug\GuessMyNumber_Bisection.pdb
